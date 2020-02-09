@@ -1,5 +1,5 @@
 # 3D-EMISH
-Ultra-Resolution Visualization of Sequence-Specific 3D Chromatin Folding Structures
+Ultrastructural Visualization of 3D Chromatin Folding Using Serial Block-Face Scanning Electron Microscopy and In Situ Hybridization (3D-EMISH)
 
 The entire original 3D-EMISH stack file size is about 12TB, not possible to deposit all data files into a public depository space. We first deposit eight intermediate image data files to show our image processing steps, from cropped raw EM image stacks to final processed image stacks, identifying sub-domain groups using different colors. We deposit the three representative chromatin structures (sID 50 for 1 domain, sID 12 for 2 domain, sID 42 for 3 domain). Second, we will deposit cropped raw 3D-EMISH image files for all 229 structures with our image-processing code.  
 
