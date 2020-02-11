@@ -23,6 +23,6 @@ Three example 3D-EMISH images to show intermediate image processing steps
 [Collected 3D-EMISH raw image files]
 All 229 cropped raw EM image stacks
 
-[Script Version 1.0 and 1.1]
-code to use for 3D-EMISH image processing and analyzing the image data files
+[Script Version 1.1]
+3D-EMISH image processing and analyzing codes
 
