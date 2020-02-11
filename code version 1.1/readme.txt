@@ -25,4 +25,6 @@ The description of adjustable parameters given in files AnalysisParameters.py an
 
 Developed by Blazej Ruszczycki, 2019, e-mail:b.ruszczycki@nencki.gov.pl
 
-Codes are compressed and packaged with zip file format.
+Codes are compressed and packaged with zip file format, and split the file with 25Mb size using linux split commend.
+After download four files (scripts_for_emish.zipaa, scripts_for_emish.zipab, scripts_for_emish.zipac, scripts_for_emish.zipad), please use the following linux commend to merge: "cat scripts_for_emish.zip* > scripts_for_emish.zip". 
+Then, uncompress the zip file. 
