@@ -15,7 +15,8 @@ Authors: Paweł Trzaskoma1,8, Błażej Ruszczycki1,8, Byoungkoo Lee2,8, Katarzyn
 8 equal contribution as co-first authors
 * corresponding authors: Grzegorz M. Wilczyński (g.wilczynski@nencki.gov.pl), Yijun Ruan (Yijun.Ruan@jax.org)
 
-3D-EMISH data folders in the current github:
+3D-EMISH data folders:
+
 [Example image files]
 Three example 3D-EMISH images to show intermediate image processing steps  
 
