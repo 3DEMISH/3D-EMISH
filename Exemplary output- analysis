@@ -1,0 +1,2 @@
+Exemplary output from structure analysis and segmantaion into domains.
+Domains are saved as 3d numpy matrices (.npy files) and a color 3d tiff file
