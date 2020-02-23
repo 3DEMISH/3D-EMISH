@@ -36,3 +36,5 @@ All 229 cropped raw EM image stacks
 [Code Version 1.1]
 3D-EMISH image processing and analyzing codes
 
+Instruction how to run the code are in the readme.txt file in code version 1.1 folder
+
