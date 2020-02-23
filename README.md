@@ -20,6 +20,16 @@ Authors: Paweł Trzaskoma1,8, Błażej Ruszczycki1,8, Byoungkoo Lee2,8, Katarzyn
 [Example image files]
 Three example 3D-EMISH images to show intermediate image processing steps  
 
+[Exemplary input]
+Exemplary 3D stack to perform denoising [.tif], and denoised image [.cmap] for analysis and segmentation
+
+[Exemplary output- denoising]
+Exemplary
+output from running denoising script
+
+[Exemplary output- analysis] 
+Example of aligned and segmented structure
+
 [Collected 3D-EMISH raw image files]
 All 229 cropped raw EM image stacks
 
